@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BuffaloBadger
-- 👀 I’m interested in engineering education
-- 🌱 I’m currently learning R, Rmarkdown and Quarto
+- 👋 Hi, I’m @BuffaloBadger.
+- 👀 I’m interested in engineering education and chemical reaction engineering.
+- 🌱 I’m currently learning R, Python, and Quarto.
 
 <!---
 BuffaloBadger/BuffaloBadger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
